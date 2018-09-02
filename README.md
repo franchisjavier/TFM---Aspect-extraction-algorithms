@@ -12,7 +12,7 @@ vader_movie.txt
 
 Estos datasets están extraídos de diferentes fuentes y cada una de sus opiniones está manualmente clasificada en los siguientes archivos:
 
-sanders_so_score.txt
+sanders_so_score.txt,
 debate_so_score.txt
 nikolaos_ted_so_score.txt
 vader_amazon_so_score.txt
